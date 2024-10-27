@@ -282,7 +282,6 @@ class Ui_Form(object):
         self.sonuc_mesaji_label = QtWidgets.QLabel(parent=Form)
         self.sonuc_mesaji_label.setGeometry(QtCore.QRect(20, 620 + offset, 281, 41))
         self.sonuc_mesaji_label.setObjectName("sonuc_mesaji_label")
-        # Desteklenen formatları tanımla
         self.SUPPORTED_FORMATS = {
             'ses': ['.mp3', '.wav', '.ogg', '.aac', '.wma', '.m4a', '.flac'],
             'video': ['.mp4', '.avi', '.mkv', '.mov', '.wmv', '.flv', '.webm'],
