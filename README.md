@@ -2,7 +2,7 @@
 
 A versatile media format converter application built with PyQt6 that supports conversion between various audio, video, and image formats. The application provides a user-friendly interface with preview capabilities for all media types.
 
-![Application Preview](https://hizliresim.com/85g7btc)
+![Application Preview](/img/app.jpg)
 
 ## Features
 
