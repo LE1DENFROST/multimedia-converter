@@ -1,0 +1,6 @@
+PyQt6
+Pillow
+pydub
+moviepy
+svglib
+reportlab
